@@ -1,0 +1,21 @@
+{
+  "name": "@bengohyp/how-to-npm",
+  "version": "1.0.1",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bengohyp/how-to-npm.git"
+  },
+  "author": "bengohyp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bengohyp/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/bengohyp/how-to-npm#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
